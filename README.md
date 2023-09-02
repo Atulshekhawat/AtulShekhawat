@@ -1,17 +1,11 @@
 ![logo](https://github.com/Atulshekhawat/AtulShekhawat/blob/main/1.png)
 
 <h3 align="center">MCA From Lovely Professional University</h3>
-
+- 📫 How to reach me **atulshekhawat21@gmail.com**
 
 
 - 🌱 I’m currently learning **Java, JavaScript**
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/Atulshekhawat](https://github.com/Atulshekhawat)
-
-- About Me : **My name is Atul, I have done Master of Computer Applications (MCA). With a passion for technology and a drive for continuous learning.**
-
-- 📫 How to reach me **atulshekhawat21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
