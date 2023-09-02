@@ -1,5 +1,5 @@
 ![logo](https://github.com/Atulshekhawat/AtulShekhawat/blob/main/1.png)
-<h1 align="center">Hi 👋, I'm Atul Singh</h1>
+
 <h3 align="center">MCA From Lovely Professional University</h3>
 
 
