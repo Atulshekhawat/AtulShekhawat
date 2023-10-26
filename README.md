@@ -1,4 +1,4 @@
-![logo](https://github.com/Atulshekhawat/AtulShekhawat/blob/main/1.png)
+![logo](https://github.com/Atulshekhawat/AtulShekhawat/blob/main/cover_photo.png)
 
 <h3 align="center">MCA From Lovely Professional University</h3>
 - 📫 How to reach me **atulshekhawat21@gmail.com**
